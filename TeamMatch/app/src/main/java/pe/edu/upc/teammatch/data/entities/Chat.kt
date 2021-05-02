@@ -1,10 +1,11 @@
 package pe.edu.upc.teammatch.data.entities
 
+import androidx.room.ColumnInfo
 import androidx.room.Entity
 import androidx.room.PrimaryKey
-import com.google.gson.annotations.SerializedName
 
 @Entity
-class player(){
-
-}
+data class Chat (
+    @PrimaryKey
+    val id: Int,
+)
