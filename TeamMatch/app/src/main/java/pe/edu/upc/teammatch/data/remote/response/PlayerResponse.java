@@ -1,4 +1,4 @@
 package pe.edu.upc.teammatch.data.remote.response;
 
-public class playerresponse {
+public class PlayerResponse {
 }
