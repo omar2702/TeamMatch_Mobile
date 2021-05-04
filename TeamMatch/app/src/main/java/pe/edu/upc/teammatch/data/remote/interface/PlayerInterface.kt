@@ -4,7 +4,7 @@ import pe.edu.upc.teammatch.data.remote.response.PlayerResponse
 import retrofit2.Call
 import retrofit2.http.*
 
-
+//Lack Implemented methods
 interface PlayerInterface {
 
     @GET("/players")

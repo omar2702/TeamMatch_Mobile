@@ -1,9 +1,8 @@
 package pe.edu.upc.teammatch.data.entities
 
-
 data class Player(
 
-    val id: Int,
+    val playerId: Long,
 
     val username: String,
 
