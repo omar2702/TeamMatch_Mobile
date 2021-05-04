@@ -4,7 +4,7 @@ package pe.edu.upc.teammatch.data.entities
 
 data class Game (
 
-    val id: Int,
+    val GameId: Int,
 
 
     val name: String,
